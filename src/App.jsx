@@ -24,7 +24,6 @@ import Fragmento from "./components/basicos/Fragmento";
 import ComParametro from "./components/basicos/ComParametro";
 import Primeiro from "./components/basicos/Primeiro";
 
-/* TODO Github */
 export default (props) => {
   return (
     <div className="App">
